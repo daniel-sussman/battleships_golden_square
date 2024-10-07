@@ -1,2 +1,3 @@
 *venv*
-*pycache/
+*/.vs_code
+*/__pycache__
